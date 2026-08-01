@@ -114,7 +114,7 @@ These rules come from real production failures and **must** be followed:
 
 ### License
 
-MIT © 2025
+MIT © 2026
 
 ---
 
@@ -214,4 +214,4 @@ promo-video-builder/
 
 ### 许可证
 
-MIT © 2025
+MIT © 2026

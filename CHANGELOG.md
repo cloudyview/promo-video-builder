@@ -2,7 +2,7 @@
 
 All notable changes to Promo Video Builder will be documented in this file.
 
-## [1.0.0] - 2025-08-01
+## [1.0.0] - 2026-08-01
 
 ### Added
 
