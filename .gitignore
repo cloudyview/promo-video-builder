@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+out/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Screenshots (may contain sensitive data)
+public/textures/*.png
+public/textures/*.jpg
+
+# Temp files
+*.tmp
+*.log
